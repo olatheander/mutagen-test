@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+cmd/mutagen/mutagecmd/mutagen/mutagen
 
 # Test binary, built with `go test -c`
 *.test
